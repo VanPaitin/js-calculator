@@ -1,0 +1,22 @@
+.container {
+  height: 170px;
+  width: 170px;
+  margin-top: 90px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.child-div {
+  display: inline-block;
+  background: #16134F;
+  color: white;
+  width: 35px;
+  height: 35px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#display {
+  width: 170px;
+  color: #FFFFFF;
+}
